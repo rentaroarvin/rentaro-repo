@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: Rentaro",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.rentaro",
-    "apk": "aniyomi-en.rentaro-v14.47.apk",
+    "apk": "aniyomi-en.rentaro-v14.48.apk",
     "lang": "en",
-    "code": 47,
-    "version": "14.47",
+    "code": 48,
+    "version": "14.48",
     "nsfw": 1,
     "sources": [
       {
