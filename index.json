@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: Arvin-HD",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.arvinhd",
-    "apk": "aniyomi-en.arvinhd-v16.1.apk",
+    "apk": "aniyomi-en.arvinhd-v16.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "16.1",
+    "code": 2,
+    "version": "16.2",
     "nsfw": 0,
     "sources": [
       {
@@ -36,10 +36,10 @@
   {
     "name": "Aniyomi: Arvin-KD",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.arvinkd",
-    "apk": "aniyomi-en.arvinkd-v16.1.apk",
+    "apk": "aniyomi-en.arvinkd-v16.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "16.1",
+    "code": 2,
+    "version": "16.2",
     "nsfw": 0,
     "sources": [
       {
