@@ -17,6 +17,23 @@
     ]
   },
   {
+    "name": "Aniyomi: Arvin-HP",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.arvinhp",
+    "apk": "aniyomi-en.arvinhp-v16.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Arvin-HP",
+        "lang": "en",
+        "id": "8263274061288266916",
+        "baseUrl": ""
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Arvin-KD",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.arvinkd",
     "apk": "aniyomi-en.arvinkd-v16.1.apk",
